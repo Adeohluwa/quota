@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name": "quota",
+    "version": "0.1",
+    "description": "Quoting tools for mortgage brokers",
+    "browser_action": {
+	"default_popup": "index.html"
+    }
+}
